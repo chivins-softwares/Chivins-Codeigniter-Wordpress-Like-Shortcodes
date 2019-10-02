@@ -1,7 +1,13 @@
 <?php
-
 	defined('BASEPATH') OR exit('No direct script access allowed');
-	
+	/*
+         * Chivins Codeigniter Shortcode Library
+         *
+         * Author: Agwu Chibueze Dennis
+         * Site URL: https://www.chivins.com
+         * License: GNU v3.
+         */
+		
 	class Shortcode
 	{
 		protected $chi;
