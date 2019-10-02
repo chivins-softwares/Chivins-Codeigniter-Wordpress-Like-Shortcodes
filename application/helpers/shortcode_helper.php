@@ -2,7 +2,7 @@
 	
 	defined('BASEPATH') OR exit('No direct script access allowed');
 	/*
-         * Chivins Codeigniter Shortcode Library
+         * Chivins Codeigniter Shortcode helper
          *
          * Author: Agwu Chibueze Dennis
          * Site URL: https://www.chivins.com
